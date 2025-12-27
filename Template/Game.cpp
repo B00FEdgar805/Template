@@ -1,10 +1,3 @@
-//
-//  Game.cpp
-//  Template
-//
-//  Created by Edgar Alamillo on 12/23/25.
-//
-
 #include "Game.hpp"
 
 Game::Game()

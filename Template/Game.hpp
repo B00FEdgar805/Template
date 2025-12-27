@@ -1,10 +1,3 @@
-//
-//  Game.hpp
-//  Template
-//
-//  Created by Edgar Alamillo on 12/23/25.
-//
-
 #ifndef Game_hpp
 #define Game_hpp
 
